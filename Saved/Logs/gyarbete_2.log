@@ -814,3 +814,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.18-08.36.51:399][553]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.10.18-08.36.51:400][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
 [2021.10.18-08.36.51:400][553]LogFileHelpers: Loading map 'bana' took 0.030
+[2021.10.18-08.45.29:188][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.18-08.45.29:410][461]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 126 classes and 0 folders.
+[2021.10.18-08.45.30:308][461]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.18-08.45.30:445][462]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.18-08.49.16:203][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.10.18-08.49.16:204][883]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/bana' took 0.032
+[2021.10.18-08.49.16:205][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2021.10.18-08.49.16:249][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.10.18-08.49.16:249][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.10.18-08.49.16:299][883]LogSavePackage: Moving '../../../../../../Users/christos.potamitis/Documents/git/gyarbete/Saved/FirstPersonCharacter_Auto17553573849D026FE196070B6C9E61374.tmp' to '../../../../../../Users/christos.potamitis/Documents/git/gyarbete/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2021.10.18-08.49.16:300][883]LogFileHelpers: Auto-saving content packages took 0.095
